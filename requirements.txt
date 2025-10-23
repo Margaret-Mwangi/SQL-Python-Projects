@@ -1,0 +1,12 @@
+# Core dependencies
+pandas==2.2.2
+chardet==5.2.0
+kaggle==1.6.17
+python-dotenv==1.0.1
+
+# Database & ORM
+SQLAlchemy==2.0.30
+psycopg2-binary==2.9.9
+
+# Optional (for notebook execution)
+ipykernel==6.29.5
